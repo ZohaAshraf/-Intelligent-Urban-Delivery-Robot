@@ -1,4 +1,6 @@
 # 🤖 Intelligent Urban Delivery Robot
+<img width="1920" height="600" alt="performance_comparison" src="https://github.com/user-attachments/assets/dfdd0057-0ab1-4179-8f1f-b2be518a711f" />
+
 
 > AL-2002 Artificial Intelligence Project 2026 — National University FAST, Faisalabad-Chiniot Campus
 
